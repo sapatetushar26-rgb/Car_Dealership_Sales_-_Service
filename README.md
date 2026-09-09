@@ -1,8 +1,5 @@
 # Car_Dealership_Sales_-_Service
-<img width="986" height="551" alt="IMG_20260909_11074638_0_guid(54cd2a5713714895885f5941e0103b40)_gallery" src="https://github.com/user-attachments/assets/ac4ecc00-1625-4b29-9c96-6f0ff832a9b7" />
-<img width="987" height="533" alt="IMG_20260909_11074639_1_guid(fc6e50b4f6994b549712ee77b8ee2608)_gallery" src="https://github.com/user-attachments/assets/9b568b8a-45a0-4703-8f69-4aa72cef210c" />
-<img width="982" height="551" alt="IMG_20260909_11074640_2_guid(59bd5afa19b9459d8d9b71bb5e4b25ec)_gallery" src="https://github.com/user-attachments/assets/ae85e287-a3e1-4a17-b54e-9104094d50b8" />
-<img width="982" height="551" alt="IMG_20260909_11074640_2_guid(59bd5afa19b9459d8d9b71bb5e4b25ec)_gallery" src="https://github.com/user-attachments/assets/4aa3c6cc-0b98-4fa2-a645-c8fa8d5c8770" />
-
-
-
+<img width="987" height="533" alt="Screenshot 2026-07-27 102248" src="https://github.com/user-attachments/assets/391f5d6e-fc69-4323-883e-7c47bb98837c" />
+<img width="982" height="551" alt="Screenshot 2026-07-27 102211" src="https://github.com/user-attachments/assets/037b2079-f732-437c-b591-8a9bd58410ec" />
+<img width="986" height="551" alt="Screenshot 2026-07-27 102142" src="https://github.com/user-attachments/assets/93c8fb36-81fc-4239-8e38-b902f14534e0" />
+<img width="981" height="549" alt="Screenshot 2026-07-27 102110" src="https://github.com/user-attachments/assets/0aa062e6-758c-4a61-80a6-cba8f4161f80" />
